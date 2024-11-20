@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">movie-list-uts</string>
+    <string name="title_movie_3">Alien: Romulus</string>
+    <string name="desc_movie_3">While scavenging the deep ends of a derelict space station.... Read more</string>
+    <string name="desc_movie_1">Eddie and Venom are on the run. Hunted by both of their....</string>
+    <string name="title_movie_1">Venom: The Last Dance</string>
+    <string name="title_movie_2">Deadpool dan Wolverine</string>
+    <string name="desc_movie_2">A listless Wade Wilson toils away in civilian life with....</string>
+    <string name="title_movie_4">Despicable Me 4</string>
+    <string name="desc_movie_4">Gru and Lucy and their girls—Margo, Edith and Agnes—welcome....</string>
+    <string name="title_movie_5">The Avengers</string>
+    <string name="desc_movie_5">Avengers: Endgame is the American superhero movie of 2019....</string>
+    <string name="desc_movie_6">The untold origin story of Optimus Prime and Megatron, better known....</string>
+    <string name="title_movie_6">Transformers One</string>
+    <string name="title_movie_7">Inside Out 2</string>
+    <string name="desc_movie_7">Teenager Rileys mind headquarters is undergoing a sudden demolition....</string>
+    <string name="title_movie_8">Terrifier 3</string>
+    <string name="desc_movie_8">Five years after surviving Art the Clowns Halloween massacre....</string>
+
 </resources>
